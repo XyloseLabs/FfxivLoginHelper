@@ -11,4 +11,4 @@ Instructions
 7. IMPORTANT! Once you have confirmed it is running properly, build the project (CTRL+SHIFT+B or use the "Build" tab in the menu bar at the top if Visual Studio)
 8. After you build (above) the project, you can navigate to [Your File Path]\FfxivLoginHelper\WinFormsApp1\bin\Debug\net6.0-windows and create a shortcut on your desktop
 of the WinFormsApp1 (feel free to rename the shortcut and only the shortcut)
-9. Running the newly created shortcut shold now get you into the game with ease
+9. Running the newly created shortcut should now get you into the game with ease
